@@ -57,12 +57,14 @@ _Last updated: 2026-06-25_
 
 | Date | Course | Hours | Provider |
 |---|---|---|---|
-| — | No hours logged yet | 0 | — |
+| On file (pre-6/25) | Prior coursework | 4.57 | — |
 
 **Annual requirement:** 15 PDH hours by September deadline
 **Pace target by end of June (6/30):** ~8.75 hours
-**Current logged:** 0 (unknown — Travis needs to confirm)
-**Note:** "Class: WTF1" on 6/25 (tentative, 2-4pm CT) — unknown if PDH-eligible. Confirm.
+**Current logged:** 4h 34m (4.57 hrs) — confirmed by Travis 6/25/26
+**Remaining to requirement:** 10.43 hours
+**Gap vs. end-of-June pace target:** ~4.18 hours short (need 8.75, have 4.57)
+**Note:** "Class: WTF1" on 6/25 (tentative, 2-4pm CT) — confirm PDH eligibility; if approved, would bring total to ~6.57 hrs and close the gap to ~2.18 hrs.
 
 ---
 
