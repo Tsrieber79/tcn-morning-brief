@@ -304,7 +304,7 @@ If nothing is urgent, say so in the Headline and shorten the brief. Don't manufa
 
 \## Delivery
 
-After composing the brief, send it as an email to travisrieber@tcntechnologie.com.
+After composing the brief, send it as an email to travisrieber@tcntechnologies.com.
 
 
 
@@ -314,7 +314,7 @@ Steps every run:
 
 2\. Send via Outlook email with:
 
-&#x20;  - \*\*To\*\*: travisrieber@tcntechnologie.com
+&#x20;  - \*\*To\*\*: travisrieber@tcntechnologies.com
 
 &#x20;  - \*\*Subject\*\*: Morning Brief — \[Day], \[Month DD, YYYY]
 
